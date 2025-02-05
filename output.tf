@@ -1,3 +1,3 @@
 output "bucket_name" {
-  value = aws_s3_bucket.primusl_backend.bucket
+  value = aws_s3_bucket.peril_backend.bucket
 }
